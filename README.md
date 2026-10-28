@@ -1,0 +1,1 @@
+Исходный датасет расположен по [ссылке](https://drive.google.com/drive/folders/1OoNOug7mBNiYG79PHeEVOqGovIFeK6mS?usp=sharing)
